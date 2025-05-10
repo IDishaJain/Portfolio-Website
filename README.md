@@ -25,5 +25,5 @@ To view this website locally, follow these steps:
 3. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Portfolio-Website.git
+   https://github.com/IDishaJain/Portfolio-Website.git
 
